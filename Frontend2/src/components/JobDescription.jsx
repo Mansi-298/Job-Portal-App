@@ -19,7 +19,7 @@ const JobDescription = () => {
 
     const applyJobHandler = async () => {
         try {
-            const res = await axios.get(`${APPLICATION_API_END_POINT}/apply/${jobId}`, {withCredentials:true});
+            const res = await axios.get(`https://job-portal-app-uomk.onrender.com/api/v1/application/apply/${jobId}`, {withCredentials:true});
             console.log(res.data);
             if(res.data.success)
             {
@@ -36,7 +36,7 @@ const JobDescription = () => {
     useEffect(() => {
         const fetchSingleJob = async () => {
             try {
-                const res = await axios.get(`${JOB_API_END_POINT}/get/${jobId}`, { withCredentials: true });
+                const res = await axios.get(`https://job-portal-app-uomk.onrender.com/api/v1/job/get/${jobId}`, { withCredentials: true });
                 if (res.data.success){
                     dispatch(setSingleJob(res.data.job));
                      setIsApplied(res.data.job.application.some(application=>application.applicant == user?._id));
