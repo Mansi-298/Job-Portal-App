@@ -83,7 +83,7 @@ A comprehensive web application designed to connect job seekers with employers. 
 
 ![Image](https://github.com/user-attachments/assets/4029aaa9-14ee-4a6c-9c66-8ecc1670a435)
 
-![Image](https://github.com/user-attachments/assets/06de3fcc-4870-4827-ac88-031b8cb
+![Image](https://github.com/user-attachments/assets/2fdcd606-7155-453c-968f-1cdacb3ec91a)
 
 ![Image](https://github.com/user-attachments/assets/c86da73b-3bd7-4ed6-ba8a-8e6b99c2ecdd)
 
