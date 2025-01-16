@@ -79,5 +79,17 @@ A comprehensive web application designed to connect job seekers with employers. 
   The Application schema tracks job applications.
 
  ## Outputs
+![Image](https://github.com/user-attachments/assets/e5fc9434-7883-42e5-b7be-2fb48372c169)
 
+![Image](https://github.com/user-attachments/assets/4029aaa9-14ee-4a6c-9c66-8ecc1670a435)
+
+![Image](https://github.com/user-attachments/assets/06de3fcc-4870-4827-ac88-031b8cb
+
+![Image](https://github.com/user-attachments/assets/c86da73b-3bd7-4ed6-ba8a-8e6b99c2ecdd)
+
+![Image](https://github.com/user-attachments/assets/f08aae53-839d-472d-985a-5fca87252419)
+
+![Image](https://github.com/user-attachments/assets/c3ec0d31-299b-48fc-ae82-fcc9c1cb5179)
+
+![Image](https://github.com/user-attachments/assets/fd936087-01a2-4dae-b7b7-25d04fa9430e)
 
